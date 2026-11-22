@@ -57,39 +57,23 @@ https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 
 
-* \[] Configurar o ambiente PostgreSQL.
+\- \[ ] Configurar o ambiente PostgreSQL.
 
+\- \[ ] Importar e explorar os dados.
 
+\- \[ ] Desenvolver consultas SQL.
 
-* \[] Importar e explorar os dados.
+\- \[ ] Aplicar CTEs e Window Functions.
 
+\- \[ ] Criar o modelo dimensional.
 
+\- \[ ] Tratar dados com Power Query.
 
-* \[] Desenvolver consultas SQL.
+\- \[ ] Desenvolver medidas DAX.
 
+\- \[ ] Construir o dashboard no Power BI.
 
-
-* \[] Aplicar CTEs e Window Functions.
-
-
-
-* \[] Criar o modelo dimensional.
-
-
-
-* \[] Tratar dados com Power Query.
-
-
-
-* \[] Desenvolver medidas DAX.
-
-
-
-* \[] Construir o dashboard no Power BI.
-
-
-
-* \[] Validar resultados e documentar conclusões.
+\- \[ ] Validar resultados e documentar conclusões.
 
 
 
